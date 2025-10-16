@@ -1,0 +1,14 @@
+arabic_reshaper==3.0.0
+google_cloud_aiplatform==1.103.0
+google_cloud_aiplatform==1.71.1
+imbalanced_learn==0.14.0
+matplotlib==3.10.7
+pandas==2.3.3
+plotly==6.3.0
+plotly==6.3.1
+python-dotenv==1.1.1
+scikit_learn==1.7.2
+seaborn==0.13.2
+streamlit==1.45.1
+streamlit==1.50.0
+vertexai==1.71.1
